@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/attribution.png</file>
+        <file>img/broadcast.png</file>
+        <file>img/targeting.png</file>
+    </qresource>
+</RCC>
